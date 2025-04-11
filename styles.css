@@ -1,0 +1,38 @@
+h1, footer {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 110%;
+    text-align: justify;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h2 {
+    color: brown;
+}
+
+.heading-2 {
+    color: burlywood;
+    background-color:brown;
+    font-family: 'Playfair Display', 'Georgia', serif;
+    padding: 5px;
+    border-radius: 8px;
+}
+div .projects {
+    display: inline flex;
+    
+}
+
+#me h1, img {
+    margin: 5px;
+    display: inline-block;
+}
+header {
+    padding-top: 10px;
+}
